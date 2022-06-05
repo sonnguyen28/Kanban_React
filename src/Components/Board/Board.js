@@ -3,7 +3,7 @@ import { MoreHorizontal } from "react-feather";
 
 import Card from "../Card/Card";
 import Dropdown from "../Dropdown/Dropdown";
-import Editable from "../Editabled/Editable";
+import Editable from "../Editable/Editable";
 
 import "./Board.css";
 
