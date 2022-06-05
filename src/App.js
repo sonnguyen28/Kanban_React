@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import Board from "./Components/Board/Board";
 
 import "./App.css";
-import Editable from "./Components/Editable/Editable";
+import Editable from "./Components/Editabled/Editable";
 
 function App() {
   const [boards, setBoards] = useState(
